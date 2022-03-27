@@ -12,7 +12,7 @@ __In this project, we will build a spam email classifier that can tell whether a
 - Preprocessing emails. 
 - Importing libraries sklearn, LinearRegression, lime
 - Feature extraction.  
-- Train the data (Use Naive Bayes, SVM, Logistics Regression and LIME) + process from NLP's Course
+- Train the data (Use Naive Bayes, SVM, Logistics Regression and LIME)
 - Test our models for test set, and get results. 
 - Calculate to judge our model, such as precision, recall, F1-score and so on.
 - Conclude and discuss the results # spam_ham_email_dectec
